@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+data/raw/*.csv
+data/processed/*
+reports/figuras/*
+!**/.gitkeep
+# el modelo entrenado y los datos procesados livianos SÍ se versionan para el despliegue en la nube:
+!models/artefacto_sequia.joblib
+!data/processed/dataset_modelado.csv
+!data/processed/telemetry_cache.json
+!data/raw/oni.csv

@@ -1,0 +1,5 @@
+Modelo,F1,Precisión,Recall,Bal.Acc,Brier,PR-AUC,ROC-AUC
+Gradient Boosting ajustado (final),0.6632,0.5943,0.75,0.8379,0.0662,0.6032,0.9292
+Base: siempre 'no sequía',0.0,0.0,0.0,0.5,0.1265,0.1265,0.5
+Base: persistencia,0.5783,0.5854,0.5714,0.7564,0.1054,0.3887,0.7564
+Base: climatología,0.2928,0.1906,0.631,0.6215,0.1074,0.2187,0.6341

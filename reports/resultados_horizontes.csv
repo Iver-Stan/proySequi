@@ -1,0 +1,4 @@
+h (meses),Modelo,F1,PR-AUC,ROC-AUC,Recall,Precisión,F1 persistencia,PR-AUC persistencia,F1 climatología,prevalencia test
+1,Gradient Boosting ajustado,0.6632,0.6032,0.9292,0.75,0.5943,0.5783,0.3887,0.2928,0.1265
+2,LightGBM regulado,0.4171,0.3306,0.8279,0.5238,0.3465,0.3855,0.2279,0.2928,0.128
+3,Climatología,0.2791,0.2086,0.6351,0.3614,0.2273,0.2909,0.1757,0.2764,0.1281
